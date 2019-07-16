@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>simple-cookbookex-app</title>
+</head>
+
+<body background-color="white">
+  Basic Examples
+  <table>
+    <tr>
+      <td>
+        <div id="damsapp"></div>
+      </td>
+      <td>
+        <div id="app"></div>
+      </td>
+      <td>
+        <div id="currapp"></div>
+      </td>
+    </tr>
+  </table>
+  State Change Examples
+  <table>
+    <tr>
+      <td>
+        <div id="frog"></div>
+      </td>
+      <td>
+        <div id="remoteajax"></div>
+      </td>
+      <td>
+        <div id="emojiapp"></div> </td>
+    </tr>    
+  </table>
+  <table>
+    <tr>
+      <td>
+        <div id="remoteajax"></div>
+      </td>
+      <td>
+        <div id="validationexample"></div>
+      </td>
+      <td>
+      </td>
+    </tr>    
+  </table>
+  <table>
+    <tr>
+      <td>
+        <div id="routerapp"></div>
+      </td>
+      <td>
+        
+      </td>
+      <td>
+      </td>
+    </tr>    
+  </table>      
+  
+  <script src="/dist/build.js"></script>
+</body>
+</html>
